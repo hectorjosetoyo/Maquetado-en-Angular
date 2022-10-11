@@ -1,0 +1,23 @@
+.hhh {
+    padding-top: 120px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: black;
+    background-size: cover;
+    min-height: 100vh;
+    text-align: justify;
+    color: white;
+}
+
+.jjj {
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.ttt {
+    padding: auto;
+}

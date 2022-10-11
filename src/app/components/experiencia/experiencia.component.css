@@ -1,0 +1,28 @@
+.row {
+    padding: 20px;
+}
+
+div {
+    color: white;
+}
+
+h2,
+h3 {
+    display: inline;
+}
+
+.hhh {
+    padding-top: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background: black;
+    background-size: cover;
+    min-height: 100vh;
+    text-align: justify;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}

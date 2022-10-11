@@ -1,0 +1,19 @@
+.logo {
+    width: 100px;
+}
+
+img {
+    width: 40px;
+}
+
+.redes {
+    float: right;
+    margin-top: 13px;
+}
+
+
+.logo,
+.redes {
+    display: inline;
+    margin-right: 15px;
+}

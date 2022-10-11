@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    position: fixed;
+    /**para fijar el navbar en pantalla**/
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10
+        /**para superposicionar el navbar**/
+}
+
+.width {
+    width: 90px;
+}
+
+.git {
+    width: 30px;
+}
+
+.dere {
+    float: right;
+}

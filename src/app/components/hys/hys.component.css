@@ -1,0 +1,20 @@
+.row {
+    padding: 40px;
+}
+
+.hhh {
+    padding-top: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background: black;
+    background-size: cover;
+    min-height: 100vh;
+    text-align: justify;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
